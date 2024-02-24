@@ -1,0 +1,14 @@
+Problem Statement :
+Customer segmentation is the practice of dividing customers into groups where the individuals are similar to each other in some ways.
+
+This practice allows a business to create a group-specific campaign or digital advertisement.
+
+It helps businesses to increase the effectiveness of the business's marketing and reducing the marketing costs to almost half.
+
+It also enables businesses to focus marketing activities more on certain platforms based on the characteristics of the segments.
+
+Though it is used to create homogenous groups of individuals, we will use it to understand consumer behavior in this notebook.
+
+The aim of this problem is to segment the clients of a wholesale distributor based on their annual spending.
+
+There are diverse product categories, like milk, grocery, region, etc..

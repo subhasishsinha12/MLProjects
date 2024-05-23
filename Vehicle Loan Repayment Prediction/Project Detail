@@ -1,0 +1,17 @@
+Non-banking financial institutions (NBFIs) are facing a growing challenge of loan defaults, particularly in the vehicle loan category. To address this issue and maintain profitability, this project aims to leverage a comprehensive dataset of client information to develop a predictive model for vehicle loan repayment.
+
+**Problem Statement**
+
+The NBFI in question is experiencing increased financial strain due to a rise in vehicle loan defaults. By analyzing various client attributes, such as income, credit history, employment details, and demographic information, the company seeks to create a model that accurately predicts whether a client is likely to default on their loan.
+
+**Project Objectives**
+
+> Loan Repayment Prediction: Construct a predictive model using machine learning techniques to classify clients into "likely to default" and "unlikely to default" categories based on their individual characteristics.
+
+> Feature Importance Evaluation: Assess the relative importance of each variable in the dataset (e.g., income, credit score, employment duration) in determining loan repayment behavior.
+
+> Model Optimization: Fine-tune the model's parameters and select the most effective algorithm for accurate prediction on the Test_Dataset.
+
+> Actionable Recommendations: Deliver insights to the NBFI based on the model's findings, enabling them to tailor loan offerings, adjust interest rates, and implement risk mitigation strategies.
+
+By successfully accomplishing these objectives, this project aims to empower the NBFI with a data-driven approach to manage vehicle loan defaults effectively, ultimately improving their financial performance and sustainability in the lending market.
